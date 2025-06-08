@@ -1,4 +1,4 @@
-/* Fuentes base */
+
 body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
@@ -7,7 +7,7 @@ body {
   color: #333;
 }
 
-/* Título principal */
+
 h1 {
   font-family: 'Bangers', cursive;
   font-size: 3rem;
@@ -19,7 +19,6 @@ h1 {
   letter-spacing: 2px;
 }
 
-/* Lista de Pokémon */
 .pokemon-grid {
   display: flex;
   flex-wrap: wrap;
